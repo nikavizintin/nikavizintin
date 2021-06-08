@@ -1,0 +1,29 @@
+p {
+	color:green
+	font-family: Constantia;
+	font-size:14px:
+	line-height:18px;
+	width:600px;
+	background-color:antiquewhite;
+	padding:20px;
+}
+h1, h2{
+	font-family: Gotham;
+	color:blue;
+}
+body{
+	background-image:URL("slike"/04.jpg)
+}
+a{
+	color:black;
+	background-color:white;
+	padding:5px;
+	line-height:40px;
+	border:1px solid #000000
+}
+a:hover{
+	background-color:darkgrey;
+}
+img{
+	height:200px
+}
